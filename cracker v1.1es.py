@@ -182,3 +182,4 @@ while ejecutar == True:
     BuclePrincipal()
 
 print("Gracias por usar el\033[32m PATH FINDER\033[0m\nFin de programa")
+salir = input("Pulsa enter para salir...")
