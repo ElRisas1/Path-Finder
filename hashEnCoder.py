@@ -14,7 +14,7 @@ while porsiacaso:
         bolso = hashlib.sha512()
         break
 
-    print("tonto intentalo de nuevo")
+    print("intentalo de nuevo")
 
 print("Todo correcto sacando hash...")
 
