@@ -9,7 +9,7 @@ hola
 hola123
 hola1314
 ~~~
-- Esta herramienta ha sido diseñada con el objetivo de poder comprender mejor el funcionamiento de la codificacíon hash y poder hacer ejercicios practicos con ello, además de posibles recuperaciones de contraseñas o busquedas en diccionarios para saber si son seguras las contraseñas que ya hemos establecido. Dicho lo cual, se **prohibe** el uso de esta herramienta y su código para **fines ilegales** o maliciosos, además el autor no se hace responsable de cualquier uso indebido o cualquier daño o perjuicio que pueda causar.
+- Esta herramienta ha sido diseñada con el objetivo de poder comprender mejor el funcionamiento de la codificacíon hash y poder hacer ejercicios practicos con ello, además de posibles recuperaciones de contraseñas o busquedas en diccionarios para saber si son seguras las contraseñas que ya hemos establecido. Dicho esto, se **prohibe** el uso de esta herramienta y su código para **fines ilegales** o maliciosos, además el autor no se hace responsable de cualquier uso indebido o cualquier daño o perjuicio que pueda causar.
 #
 
 _English version_
